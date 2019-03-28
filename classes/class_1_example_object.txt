@@ -1,0 +1,9 @@
+Soda
+
+'Large'
+false
+'colder than hand'
+
+I am thirsty so I picked large
+I don't want alchol so picked non alcholic
+glass is colder than my hand so it is cold
