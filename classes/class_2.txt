@@ -1,0 +1,9 @@
+Food
+
+Spicy (boolean)
+Cost (integer)
+Type_of_food (string)
+
+Is_it_spicy?
+How_much_does_it_cost?
+What_section_of_the_menu_is_it_from?
