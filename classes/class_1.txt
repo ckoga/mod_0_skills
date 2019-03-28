@@ -2,7 +2,7 @@ Drinks
 
 Size (string)
 Alcholic (boolean)
-Temperature (integer)
+Temperature (string)
 
 Pick_size (determines how much of a drink you want)
 Do_you_you_want_alchol? (determines a type of drink)
