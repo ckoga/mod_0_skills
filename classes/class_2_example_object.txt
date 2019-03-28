@@ -1,0 +1,9 @@
+Spinach dip
+
+false
+6.25
+appetizer
+
+It isn't spicy returns false
+Price listed 6.25
+Picked from the appetizer section of the menu
