@@ -2,8 +2,8 @@ Drinks
 
 Size (string)
 Alcholic (boolean)
-Available drinks (object)
+Temperature (integer)
 
 Pick_size (determines how much of a drink you want)
 Do_you_you_want_alchol? (determines a type of drink)
-Picking_from_drink_types (sodas: 5, beers: 9, coffee: 1)
+Touching drink (derermine relative temperature)
