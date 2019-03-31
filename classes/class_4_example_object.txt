@@ -1,9 +1,9 @@
 vanilla ice cream
 
 2.50
-{milk: 10, cream: 5, vanilla: 1, sugar: .5}
+{'milk': 10, 'cream': 5, 'vanilla': 1, 'sugar': .5}
 20
 
-calculate_ingredients_needed (Need: 10 milk, 5 cream, 1 vanilla, .5 sugar.  Subtract have: 8 milk, 2 cream, 2 vanilla, 2 sugar. Gives 2 milk, 4 vanilla is needed)
-calculate_quantity_of_dishes (have: 30 milk, 20 cream, 3 vanilla, 5 sugar divided by need: 10 milk, 5 cream, 1 vanilla, .5 sugar. Gives cam only make 3 batches of vanilla ice cream.)
+calculate_ingredients_needed (Need: 10 'milk', 5 'cream', 1 'vanilla', .5 'sugar'.  Subtract have: 8 'milk', 2 'cream', 2 'vanilla', 2 'sugar'. Gives 2 'milk', 4 'vanilla' is needed)
+calculate_quantity_of_dishes (have: 30 'milk', 20 'cream', 3 'vanilla', 5 'sugar' divided by need: 10 'milk', 5 'cream', 1 'vanilla', .5 'sugar'. Gives can only make 3 batches of vanilla ice cream.)
 calulate_cost (total_for_ingredients + hours of labor/quantity made)
