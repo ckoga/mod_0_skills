@@ -1,0 +1,9 @@
+Food
+
+cost (float)
+ingredients (object)
+quantity (integer)
+
+calculate_ingredients_needed (take ingredients_needed minus ingredients_owned)
+calculate_quantity_of_dishes  (take number_of_ingredients in stock divided by number_of_ingredients needed)
+calculate_cost (price of ingredients plus labor)
