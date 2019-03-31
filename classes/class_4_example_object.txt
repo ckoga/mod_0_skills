@@ -1,7 +1,7 @@
 vanilla ice cream
 
 2.50
-[milk: 10, cream: 5, vanilla: 1, sugar: .5]
+{milk: 10, cream: 5, vanilla: 1, sugar: .5}
 20
 
 calculate_ingredients_needed (Need: 10 milk, 5 cream, 1 vanilla, .5 sugar.  Subtract have: 8 milk, 2 cream, 2 vanilla, 2 sugar. Gives 2 milk, 4 vanilla is needed)
