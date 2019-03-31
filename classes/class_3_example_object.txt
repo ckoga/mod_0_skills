@@ -1,0 +1,10 @@
+Chef
+
+'chef'
+40
+true
+[apron, chef's jacket, toque]
+
+restaurant needs two chefs a qualified chef applied results in hire.
+chef is available 40 hours a week restaurant needs a chef for 20 hours.  assign chef the 20 hours of work.
+[shirt, pants, apron, chef jacket, toque]
