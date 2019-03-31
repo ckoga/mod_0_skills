@@ -1,4 +1,4 @@
-Employees
+Employee
 
 job (string)
 hours_available (integer)
