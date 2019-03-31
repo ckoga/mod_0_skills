@@ -1,0 +1,10 @@
+Employees
+
+job (string)
+hours_available (integer)
+chef (boolean)
+uniform (array)
+
+assign_job_based_on_resume (take jobs_available compared to job_applied_for)
+assign_shifts (take hour_available minus shifts_open )
+assign_uniform (with shirt and pants as a baseline add to array based on position)
