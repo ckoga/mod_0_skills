@@ -1,7 +1,7 @@
 Food
 
 Spicy (boolean)
-Cost (integer)
+Cost (float)
 Type_of_food (string)
 
 Is_it_spicy?
